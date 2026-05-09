@@ -157,5 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="xtls--xray-core"></div>
 
+### XTLS--Xray-core
+
+🔗 [source](https://github.com/XTLS/Xray-core) – [<code><small>v26.3.27</small></code>](https://github.com/XTLS/Xray-core/releases/tag/v26.3.27)
+
+| File | Size | Download |
+|------|------|----------|
+| `Xray-android-arm64-v8a.zip` | 18.9 MB | [⬇️ Download](https://raw.githubusercontent.com/emecher/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-arm64-v8a.zip) |
+| `Xray-android-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/emecher/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-arm64-v8a.zip.dgst) |
 <!-- RELEASES_END -->
