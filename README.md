@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="sartoopjj--thefeed"></div>
 
-### sartoopjj--thefeed
-
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
-
-| File | Size | Download |
-|------|------|----------|
-| `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/emecher/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 <!-- RELEASES_END -->
