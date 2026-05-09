@@ -8,6 +8,7 @@
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 2dust/v2rayN|windows-64.zip
+sartoopjj/thefeed/releases|windows-64.zip|amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
 # SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
