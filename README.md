@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="mehrshadasgary--iran-dns-switcher"></div>
 
+### mehrshadasgary--Iran-DNS-Switcher
+
+🔗 [source](https://github.com/mehrshadasgary/Iran-DNS-Switcher) – [<code><small>v2.6</small></code>](https://github.com/mehrshadasgary/Iran-DNS-Switcher/releases/tag/v2.6)
+
+| File | Size | Download |
+|------|------|----------|
+| `Iran.DNS.Switcher.exe` | 21.1 MB | [⬇️ Download](https://raw.githubusercontent.com/emecher/LatestReleaseMirror/main/releases/mehrshadasgary/Iran-DNS-Switcher/Iran.DNS.Switcher.exe) |
 <!-- RELEASES_END -->
